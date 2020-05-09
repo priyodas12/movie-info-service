@@ -1,0 +1,14 @@
+server:
+  port: 9501
+
+spring:
+  application:
+    name: movie-info-service
+  output:
+    ansi:
+      enabled: always
+
+logging:
+  level:
+    root: debug
+
